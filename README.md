@@ -3,6 +3,8 @@ Estimating Linear Dynamic Panel Data Models Based on Nonlinear Moment Conditions
 
 Generalized Method of Moments (GMM) Estimation of Linear Dynamic Panel Data Models Use pdynmc With (In) R Software
 
+https://www.youtube.com/watch?v=QKxfcxmv9zs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
